@@ -1,0 +1,11 @@
+Webpack:
+    Babel
+    SCSS
+    EsLint
+    Modes:
+        Dev
+        Prod
+
+Git
+    Production
+    Development
