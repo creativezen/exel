@@ -1,0 +1,30 @@
+{
+  "name": "exel",
+  "version": "1.0.0",
+  "description": "JavaScript Exel analog Aplication",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativezen/exel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "exel",
+    "aplication"
+  ],
+  "author": "Anton Goul'art <tocha2782@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creativezen/exel/issues"
+  },
+  "homepage": "https://github.com/creativezen/exel#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.12.2",
+    "webpack-cli": "^4.3.1"
+  }
+}
